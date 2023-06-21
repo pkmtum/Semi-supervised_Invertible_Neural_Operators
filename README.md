@@ -1,6 +1,6 @@
 # [Semi-supervised Invertible Neural Operators for Bayesian Inverse Problems](https://link.springer.com/article/10.1007/s00466-023-02298-8)
 
-Complete article is Open Access and can be downloaded using the provided link:
+Article is Open Access and can be downloaded using the provided link:
 https://link.springer.com/article/10.1007/s00466-023-02298-8
 
 ## Keywords:
