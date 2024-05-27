@@ -16,6 +16,10 @@ The scripts provided can be used to generate the results in the paper for the an
 - Jax 0.4.1
 - Pytorch 1.13.1 (only for Dataset generation)
 
+## Google Colab (05/2024)
+Link to a Google Colab version for the antiderivative test case:
+https://colab.research.google.com/drive/1t2eTwcTaWX5Jn92VR3ny4eIRBVFS2nqE?usp=sharing
+
 ## Citation
 If this code is relevant for your research, please consider citing:
 ```
